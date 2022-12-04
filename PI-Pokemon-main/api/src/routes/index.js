@@ -77,7 +77,7 @@ const evolution = async (evol) => {
 } 
 
 const getApiInfo = async () => {
-    const apiUrl = await axios.get("https://pokeapi.co/api/v2/pokemon?limit=40");
+    const apiUrl = await axios.get("https://pokeapi.co/api/v2/pokemon?limit=100");
     const results = apiUrl.data.results
     const pokemonInfo = []
     for(let i = 0 ; i < results.length ; i++){
