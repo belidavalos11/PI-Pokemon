@@ -4,7 +4,12 @@
 
 <img height="150" src="./pokemon.png" />
 
-[label](../../../../../../Downloads/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).mp4)
+[Video Presentacion Proyecto](https://drive.google.com/uc?id=1GVN4TVkdqtaK9qO81zBWFDFTsKEii9d0&export=download)
+
+<img height="150" src="./home.png" />
+<img height="150" src="./img2.png" />
+<img height="150" src="./img3.png" />
+<img height="150" src="./img4.png" />
 
 ## Objetivos del Proyecto
 
