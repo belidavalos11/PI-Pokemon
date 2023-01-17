@@ -4,7 +4,7 @@
 
 <img height="150" src="./pokemon.png" />
 
-[Video Presentacion Proyecto](https://drive.google.com/uc?id=1GVN4TVkdqtaK9qO81zBWFDFTsKEii9d0&export=download)
+[Video Presentacion Proyecto](https://youtu.be/u8HsbM0y1Ok)
 
 <img height="150" src="./home.png" />
 <img height="150" src="./img2.png" />
