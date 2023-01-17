@@ -4,6 +4,8 @@
 
 <img height="150" src="./pokemon.png" />
 
+[label](../../../../../../Downloads/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).mp4)
+
 ## Objetivos del Proyecto
 
 - Construir una App utlizando React, Redux, Node y Sequelize.
